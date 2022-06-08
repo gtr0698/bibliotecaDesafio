@@ -37,5 +37,6 @@ public class Pais {
     }
 
     public Pais() {
+        super();
     }
 }

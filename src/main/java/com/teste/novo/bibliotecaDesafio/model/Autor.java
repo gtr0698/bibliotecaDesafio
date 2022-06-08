@@ -70,5 +70,6 @@ public class Autor {
     }
 
     public Autor() {
+        super();
     }
 }
